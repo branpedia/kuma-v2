@@ -1,3 +1,8 @@
+/* Script By Bran Please don't sell add don't delete wm
+Wa : https://wa.me/6285795600265
+Ig : https://www.instagram.com/bran_pedia
+*/
+
 import yargs from 'yargs';
 import cfonts from 'cfonts';
 import chalk from 'chalk';
@@ -30,7 +35,7 @@ console.log(color(figlet.textSync('\nBran Pedia', {
   }), randomcolor));
 console.log(color(`< =============================== >`, randomcolor));
 console.log(color(`[•]`, randomcolor), color(`Hallo : Im Kuma Bear`, randomcolor));
-console.log(color(`[•]`, randomcolor), color(`Bot Version : 1.0.0`, randomcolor));
+console.log(color(`[•]`, randomcolor), color(`Bot Version : 2.0.0`, randomcolor));
 console.log(color(`[•]`, randomcolor), color(`Library : Baileys Multi Device`, randomcolor));
 console.log(color(`[•]`, randomcolor), color(`Status : Online!`, randomcolor));
 console.log(color(`[•]`, randomcolor), color(`Author : Bran Pedia`, randomcolor));
